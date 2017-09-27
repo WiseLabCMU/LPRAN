@@ -1,0 +1,45 @@
+﻿Field=#~Integer~#~50|Field=Manufacturer Part Number~String~Manufacturer Part Number~100|Field=Manufacturer~String~Manufacturer~100|Field=Description~String~Description~100|Field=Quantity~Integer~Quantity~100|Field=Designator~String~Designator~100|ReportField=Currency~USD|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LPRAN.PrjPcb|ReportField=ProjectFullPath~C:\Users\Anh Luong\Desktop\LPRAN\LPRAN.PrjPcb|ReportField=Title~Bill of Materials For BOM Document [LPRAN.BomDoc]|ReportField=TotalQuantity~140|ReportField=ReportTime~10:56:49 AM|ReportField=ReportDate~9/27/2017|ReportField=ReportDateTime~9/27/2017 10:56:49 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~4720 Forbes Ave|ReportField=Address2~CIC 2219F|ReportField=Address3~Pittsburgh, PA 15213|ReportField=Address4~USA|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~WiSE Lab|ReportField=CurrentDate~9/27/2017|ReportField=CurrentTime~10:51:55 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Anh Luong\Desktop\LPRAN\FPGA.SchDoc|ReportField=DocumentName~FPGA.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~Anh Luong|ReportField=ImagePath~|ReportField=ModifiedDate~9/23/2017|ReportField=Organization~Carnegie Mellon University|ReportField=ProjectName~LPRAN.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~4|ReportField=Time~|ReportField=Title~FPGA|ReportField=DataSourceFileName~LPRAN.BomDoc|ReportField=DataSourceFullPath~C:\Users\Anh Luong\Desktop\LPRAN\LPRAN.BomDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|U.FL-R-SMT(01)|Hirose Electric Co Ltd|CONN UMC JACK STR 50 OHM SMD|4|A1, A2, A3, A4
+2|GRM155R71C104KA88D|Murata Electronics North America|CAP CER 0.1UF 16V X7R 0402|23|C1, C3, C5, C6, C7, C8, C9, C16, C17, C18, C19, C20, C21, C22, C23, C44, C47, C48, C49, C70, C73, C74, C76
+3|GRM155R71E103KA01D|Murata Electronics North America|CAP CER 10000PF 25V X7R 0402|17|C2, C10, C11, C12, C13, C14, C24, C25, C26, C27, C28, C29, C30, C31, C32, C46, C72
+4|GRM155R60J106ME15D|Murata Electronics North America|CAP CER 10UF 6.3V X5R 0402|6|C4, C15, C51, C56, C78, C82
+5|GRM188R60J475KE19D|Murata Electronics North America|CAP CER 4.7UF 6.3V 10% X5R 0603|1|C33
+6|GRM188C81C106MA73D|Murata Electronics North America|CAP CER 10UF 16V 20% X6S 0603|2|C34, C88
+7|GRM188R71C334KA01D|Murata Electronics North America|CAP CER 0.33UF 16V X7R 0603|1|C35
+8|GRM1555C1H100FA01D|Murata Electronics North America|CAP CER 10PF 50V C0G/NP0 0402|2|C36, C40
+9|GRM1555C1H3R3CA01D|Murata Electronics North America|CAP CER 3.3PF 50V C0G/NP0 0402|2|C37, C38
+10|GRM1555C1H330JA01D|Murata Electronics North America|CAP CER 33PF 50V C0G/NP0 0402|2|C39, C64
+11|GRM1555C1H2R7BA01D|Murata Electronics North America|CAP CER 2.7PF 50V C0G/NP0 0402|1|C41
+12|GRM1555C1H5R6CA01D|Murata Electronics North America|CAP CER 5.6PF 50V C0G/NP0 0402|1|C42
+13|GRM155R60J105KE19D|Murata Electronics North America|CAP CER 1UF 6.3V X5R 0402|8|C43, C45, C50, C52, C69, C71, C75, C77
+14|GRM1555C1H8R2CA01D|Murata Electronics North America|CAP CER 8.2PF 50V C0G/NP0 0402|4|C53, C54, C79, C80
+15|GRM1555C1H560JA01D|Murata Electronics North America|CAP CER 56PF 50V C0G/NP0 0402|5|C55, C58, C60, C61, C81
+16|||C_DNP, C_DNP, C_DNP, C_DNP, C_TBD, C_DNP, C_DNP, C_TBD, C_TBD, C_TBD, C_DNP, C_DNP, L_TBD, Header, 6-Pin, Dual row, Right Angle, Header, 4-Pin, Dual row, The header and mechanical drawings for connnecting a Raspbery Pi Zero, [NoValue], SAW Filter - Bandpass - TEMEX type, SAW Filter - Bandpass - TEMEX type, SAW Filter - Bandpass - TEMEX type, SAW Filter - Bandpass - TEMEX type|21|C57, C59, C62, C63, C66, C67, C68, C83, C84, C85, C86, C87, L7, P1, P2, P3, TP1, U5, U6, U9, U10
+17|GRM1555C1H270JA01J|Murata Electronics North America|CAP CER 27PF 50V C0G/NP0 0402|1|C65
+18|GRM188R61A105KA61D|Murata Electronics North America|CAP CER 1UF 10V 10% X5R 0603|2|C89, C91
+19|GRM188R60J225KE19D|Murata Electronics North America|CAP CER 2.2UF 6.3V 10% X5R 0603|1|C90
+20|GRM1885C1H102JA01D|Murata Electronics North America|CAP CER 1000PF 50V 5% NP0 0603|1|C92
+21|CLV1A-FKB-CJ1M1F1BB7R4S3|Cree Inc|LED RED/GREEN/BLUE PLCC4 SMD|1|D1
+22|MMZ1608R300ATA00|TDK Corporation|FERRITE CHIP BEAD 30 OHM SMD|1|FB1
+23|BLM18BD221SN1D|Murata Electronics North America|FERRITE CHIP 220 OHM 200MA 0603|1|FB2
+24|5004|Keystone Electronics|TEST POINT PC MINI .040"D YELLOW|3|J1, J2, J3
+25|LQH32CN2R2M33L|Murata Electronics North America|FIXED IND 2.2UH 790MA 97 MOHM|1|L1
+26|LQG18HNR10J00D|Murata Electronics North America|INDUCTOR 100NH 300MA 0603|1|L2
+27|LQG15HS10NJ02D|Murata Electronics North America|FIXED IND 10NH 500MA 260 MOHM|1|L3
+28|LQG15HS15NJ02D|Murata Electronics North America|FIXED IND 15NH 450MA 320 MOHM|1|L4
+29|LQG15HN12NJ02D|Murata Electronics North America|FIXED IND 12NH 400MA 410 MOHM|1|L5
+30|LQG15HSR10J02D|Murata Electronics North America|FIXED IND 100NH 200MA 1.25 OHM|2|L6, L10
+31|LQG15HS39NJ02D|Murata Electronics North America|FIXED IND 39NH 300MA 650 MOHM|1|L8
+32|LQG15HS82NJ02D|Murata Electronics North America|FIXED IND 82NH 200MA 1.2 OHM SMD|1|L9
+33|MCR01MRTF1001|Rohm Semiconductor|RES SMD 1K OHM 1% 1/16W 0402|2|R1, R2
+34|MCR03ERTJ331|Rohm Semiconductor|RES 330 OHM 1/10W 5% 0603 SMD|3|R3, R4, R5
+35|PMR01ZZPJ000|Rohm Semiconductor|RES SMD 0 OHM JUMPER 1/5W 0402|2|R6, R7
+36|MCR03ERTF1002|Rohm Semiconductor|RES SMD 10K OHM 1% 1/10W 0603|1|R8
+37|MA12R|Apem Inc.|SWITCH SLIDE SPDT 300MA 4V|2|S1, S2
+38|AGL250V2-VQ100|Microsemi SoC|IC FPGA 68 I/O 100VQFP|1|U1
+39|LM3671MF-1.5/NOPB|Texas Instruments|IC REG BUCK 1.5V 0.6A SYNC SOT23|1|U2
+40|SX1257IWLTRT|Semtech Corporation|IC RF TXRX 802.15.4 32WFQFN|2|U3, U7
+41|SPF5043Z|RFMD|SPF5043Z; Low Noise Amplifier; RFMD|2|U4, U8
+42|FAN2500S30X|Fairchild Semiconductor|IC REG LDO 3V 0.1A SOT23-5|1|U11
+43|ASE-32.000MHZ-L-C-T|ABRACON|Standard Clock Oscillators 32.000M 3.3V 50ppm|1|X1
+44|ABM11-36.000MHZ-D2X-T3|Abracon LLC|CRYSTAL 36.0000MHZ 10PF SMD|2|X2, X3

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=LPRAN.SchDoc
+Record=SheetSymbol|SourceDocument=LPRAN.SchDoc|Designator=U_FPGA|SchDesignator=U_FPGA|FileName=FPGA.SchDoc|SymbolType=Normal|RawFileName=FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LPRAN.SchDoc|Designator=U_SX1255|SchDesignator=U_SX1255|FileName=SX1255.SchDoc|SymbolType=Normal|RawFileName=SX1255.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LPRAN.SchDoc|Designator=U_SX1257|SchDesignator=U_SX1257|FileName=SX1257.SchDoc|SymbolType=Normal|RawFileName=SX1257.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

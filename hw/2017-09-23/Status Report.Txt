@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [LPRAN.PcbDoc]
+   Generated File[Pick Place for LPRAN.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:18:00 PM On 9/23/2017

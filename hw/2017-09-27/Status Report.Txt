@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [LPRAN.BomDoc]
+   Generated File[Bill of Materials-LPRAN.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:57:56 AM On 9/27/2017
